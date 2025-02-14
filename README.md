@@ -1,1 +1,1 @@
-This is a parser of OmSTU staff surnames starting with "C".
+This is a template of parser
